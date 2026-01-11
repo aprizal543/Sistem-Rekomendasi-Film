@@ -127,10 +127,9 @@ Sistem berhasil merekomendasikan film yang memiliki kemiripan genre dan nuansa (
 - **Kelebihan** : Model NCF mampu menangkap pola non-linear yang kompleks antara user dan item, memberikan akurasi yang lebih baik daripada faktorisasi matriks linier sederhana, dan tidak memerlukan fitur konten (metadata) yang lengkap.
 - **Kekurangan** : Membutuhkan data rating yang cukup banyak (cold start problem untuk user baru) dan proses pelatihan (training) membutuhkan sumber daya komputasi yang lebih besar dibanding metode statistik.
 ### Evaluation
-Tahap evaluasi bertujuan untuk mengukur seberapa baik model bekerja dalam memprediksi risiko kebakaran hutan.
-##### Metrik Evaluasi
+##### Metrik Evaluasi :
 Metrik evaluasi yang digunakan untuk mengukur kinerja model dalam memprediksi rating adalah Root Mean Squared Error (RMSE).
-###### Formula dan Cara Kerja
+###### Formula dan Cara Kerja :
 RMSE mengukur rata-rata besarnya kesalahan prediksi model. Rumusnya adalah akar kuadrat dari rata-rata selisih kuadrat antara nilai prediksi dan nilai aktual.
 $$RMSE = \sqrt{\frac{1}{N} \sum_{i=1}^{N} (y_{i} - \hat{y}_{i})^2}$$
 **Keterangan** :
