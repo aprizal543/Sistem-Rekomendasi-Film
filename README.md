@@ -152,11 +152,8 @@ Dalam kasus ini, kedua garis menunjukkan penurunan awal yang signifikan, dan kem
 Nilai-nilai ini menunjukkan bahwa model memiliki kesalahan prediksi rata-rata yang relatif rendah, dan kinerja pada data validasi sangat dekat dengan kinerja pada data pelatihan, yang merupakan indikasi yang baik bahwa model tidak overfitting.
 ### Referensi
 1. Gomez-Uribe, C. A., & Hunt, N. (2015). The netflix recommender system: Algorithms, business value, and innovation. ACM Transactions on Management Information Systems (TMIS), 6(4), 1-19.
-
-Diakses dari : https://dl.acm.org/doi/10.1145/2843948
+    Diakses dari : https://dl.acm.org/doi/10.1145/2843948
 2. Koren, Y., Bell, R., & Volinsky, C. (2009). Matrix factorization techniques for recommender systems. Computer, 42(8), 30-37.
-
-Diakses dari : https://ieeexplore.ieee.org/document/5197422
+    Diakses dari : https://ieeexplore.ieee.org/document/5197422
 3. He, X., Liao, L., Zhang, H., Nie, L., Hu, X., & Chua, T. S. (2017, April). Neural collaborative filtering. In Proceedings of the 26th international conference on world wide web (pp. 173-182).
-
-Diakses dari : https://arxiv.org/abs/1708.05031
+    Diakses dari : https://arxiv.org/abs/1708.05031
