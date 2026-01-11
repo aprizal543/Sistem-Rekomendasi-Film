@@ -101,6 +101,7 @@ Pada tahap ini, model sistem rekomendasi dibangun menggunakan pendekatan Deep Le
     - Hasil dari operasi sebelumnya diproses menggunakan fungsi aktivasi Sigmoid untuk menghasilkan output dalam rentang 0 hingga 1.
 #### Top-N Recommendation Result :
 Setelah model dilatih, sistem dapat menghasilkan rekomendasi untuk pengguna tertentu. Berikut adalah contoh hasil rekomendasi untuk User ID 527:
+
 <img width="253" height="262" alt="Inference" src="https://github.com/user-attachments/assets/494b2e39-1d80-4bf9-96d5-11bf0ee3ba8b" />
 
 ###### Interpretasi & Insight:
