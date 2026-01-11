@@ -132,6 +132,7 @@ Metrik evaluasi yang digunakan untuk mengukur kinerja model dalam memprediksi ra
 ###### Formula dan Cara Kerja :
 RMSE mengukur rata-rata besarnya kesalahan prediksi model. Rumusnya adalah akar kuadrat dari rata-rata selisih kuadrat antara nilai prediksi dan nilai aktual.
 $$RMSE = \sqrt{\frac{1}{N} \sum_{i=1}^{N} (y_{i} - \hat{y}_{i})^2}$$
+
 **Keterangan** :
 - $N$ : Jumlah sampel data.
 - $y_{i}$ : Nilai rating sebenarnya (aktual)
@@ -157,3 +158,9 @@ Nilai-nilai ini menunjukkan bahwa model memiliki kesalahan prediksi rata-rata ya
     Diakses dari : https://ieeexplore.ieee.org/document/5197422
 3. He, X., Liao, L., Zhang, H., Nie, L., Hu, X., & Chua, T. S. (2017, April). Neural collaborative filtering. In Proceedings of the 26th international conference on world wide web (pp. 173-182).
     Diakses dari : https://arxiv.org/abs/1708.05031
+4. Nugroho, D. A., Lubis, C., Perdana, N. J., & Tarumanagara, U. (2024). Sistem Rekomendasi Film Menggunakan Metode Neural Collaborative Filtering Movie Recommendation System Using Neural Collaborative Filtering. J. Inf. Technol. Comput. Sci, 7(3), 6765-6775.
+    Diakses dari : https://lintar.untar.ac.id/repository/penelitian/buktipenelitian_10393012_4A040824110850.pdf
+5. Sukmana, D., Guntara, R. G., & Nugraha, M. R. (2025). Peningkatan Akurasi Rekomendasi Film Menggunakan Neural Collaborative Filtering dengan Arsitektur RecommenderNet. Jurnal Algoritma, 22(2), 2054-2065.
+    Diakses dari : https://jurnal.itg.ac.id/index.php/algoritma/article/view/3013
+6. Ayyiyah, N. M. K., Kusumaningrum, R., & Rismiyati, R. (2023). FILM RECOMMENDER SYSTEM MENGGUNAKAN METODENEURAL COLLABORATIVE FILTERING. Jurnal Teknologi Informasi dan Ilmu Komputer, 10(3).
+    Diakses dari : https://pdfs.semanticscholar.org/5d93/856b97ba7f4aa09888e466a70296da1ed647.pdf
